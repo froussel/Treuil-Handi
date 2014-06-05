@@ -13,3 +13,5 @@ Partie physique :
 
 Partie logique :
 Le schéma synaptique de fonctionement du treuil est au format opendocument (open/libre-office) dans le répository.
+
+![](https://raw.githubusercontent.com/crazytiti/Treuil-Handi/master/images/schema-0.2.jpg)
