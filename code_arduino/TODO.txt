@@ -1,0 +1,5 @@
+1) aquisition position potentiometre
+2) aquisition position treuil
+3) gestion carte de puissance moteur
+4) fonctions de gestion de sauvegarde des fin de courses
+4) implantation de la machine à etat du synoptique

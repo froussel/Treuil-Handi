@@ -1,0 +1,3 @@
+Choix de la partie gestion puissance :
+- choix composants actifs
+- module indépandants "tout prêt" / creation d'un PCB "puissance" / création PCB avec microcontroleur + partie puissance
