@@ -1,0 +1,9 @@
+Idées de réduction treuil <-> potentiometre
+- engrenages		+ : fiable / précis						- : difficulté de réalisation pratique
+- courroie			+ : simplicité de fabrication			- : possibilité de glissement
+- courroie crantée	+ : plus simple que l'engrenage, fiable	- : nécéssite des roue crantées
+- utilisation d'un poteniometre multi-tour
+					+ : le plus simple, fiable / robuste	- : disponibilité ?
+- utilisation d'un potar magnétique mono-tour avec stockage du numéro de tour en eeprom (si on tourne de moins d'un tour sans alimentation c'est OK)
+
+Todo : determiner une plage de rapport de réduction (plutot 10:1 ou plutot 200:1 ?)
